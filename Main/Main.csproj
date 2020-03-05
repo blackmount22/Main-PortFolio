@@ -73,6 +73,7 @@
     <Content Include="img\me.jpg" />
     <Content Include="img\mssql.png" />
     <Content Include="img\net.jpg" />
+    <Content Include="PortFolio.html" />
     <Content Include="Main.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
